@@ -1,7 +1,7 @@
 # oss
 Object Storage
 
-static path :https://github.com/eric-jxl/oss/static/img/
+static path :https://github.com/eric-jxl/oss/tree/main/static/img
 
 JsDelivr CDN :https://cdn.jsdelivr.net/gh/eric-jxl/oss@master/static/img/
 
